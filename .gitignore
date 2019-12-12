@@ -1,3 +1,4 @@
 .vscode
 *.csv
 intraQuarter/
+.DS_Store
